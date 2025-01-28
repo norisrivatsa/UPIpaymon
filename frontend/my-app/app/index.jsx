@@ -2,6 +2,7 @@ import { Text, View ,StyleSheet } from "react-native";
 import Monthstats from "./monthstats";
 import Dailystats from "./dailystats";
 import Buttonsec from "./buttonsec";
+import Anidemo from "./anidemo";
 
 export default function Index() {
   return (
@@ -10,6 +11,7 @@ export default function Index() {
       <Monthstats/>
       <Dailystats/>
       <Buttonsec/>
+      <Anidemo/>
     </View>
     
   );
