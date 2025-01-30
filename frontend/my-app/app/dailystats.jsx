@@ -31,6 +31,7 @@ const styles = StyleSheet.create ({
         // borderWidth : 2,
         // borderStyle: "solid",
         borderRadius: 20,
+        backgroundColor :"white",
     },
     boldText: {
         fontWeight: "bold", // Make this part bold

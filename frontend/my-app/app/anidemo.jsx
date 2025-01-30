@@ -43,6 +43,8 @@ const BarGraph = () => {
 
 const styles = StyleSheet.create({
   container: {
+    position : 'relative',
+    top : "20%",
     flexDirection: 'row',
     alignItems: 'flex-end',
     justifyContent: 'space-around',

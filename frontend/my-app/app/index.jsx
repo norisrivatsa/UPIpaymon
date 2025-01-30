@@ -7,7 +7,6 @@ import Anidemo from "./anidemo";
 export default function Index() {
   return (
     <View  style ={styles.container} >
-      <Text> Hello !</Text>
       <Monthstats/>
       <Dailystats/>
       <Buttonsec/>
@@ -20,5 +19,8 @@ export default function Index() {
 const styles = StyleSheet.create({
   container: {
     display : "flex",
+    backgroundColor: "blue",
+    height: "100%",
+    gap:10,
   },
 });
