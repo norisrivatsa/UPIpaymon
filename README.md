@@ -12,3 +12,7 @@ Made changes to frontend app layout.
 28th Jan 2025 Tuesday
 
 Made changes to frontend animations. Created new branch to try animations.
+
+30th Jan Thursday 
+
+Made changes to frontend style and funcitonality. 
