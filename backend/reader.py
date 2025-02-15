@@ -7,7 +7,7 @@ from datetime import datetime
 username ="norisrivatsa501@gmail.com"
 
 #generated app password
-app_password= "dxvz ufsb nreh ztgo"
+app_password= "################"
 
 # https://www.systoolsgroup.com/imap/
 gmail_host= 'imap.gmail.com'
